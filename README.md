@@ -1,4 +1,3 @@
-# TCGAPP-release
-the release versions for the app I am currently working on
-the main aim of the project is to be fully free with no purchase or locked features required 
-I am working on this as a solo project so updated might take some time 
+### Project Aim
+
+The aim of the **TCG APP** is to provide a completely free, open-source, and local-first desktop application designed specifically for Pokémon TCG collectors to track their personal card collections. The project aims to offer a comprehensive, all-in-one suite featuring every capability found in premium tracking apps—including multi-tiered set completion (Master, Artist Master, and Grand Master sets), price indexing, portfolio analytics, and custom tag filtering—without any restictions. **100% of features are fully unlocked and free, with zero paywalls, subscriptions, or tier-based feature locks.**
